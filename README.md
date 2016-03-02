@@ -1,7 +1,7 @@
 # Material 9GAG
 Material 9GAG
 
-![Material](http://img.blog.csdn.net/20151126131855799)
+![Material](https://raw.githubusercontent.com/SparkYuan/Material-9GAG/master/sample.gif)
 
 
 
